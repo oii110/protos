@@ -1,4 +1,4 @@
-module github.com/oii110/proto
+module github.com/oii110/protos
 
 go 1.23
 
